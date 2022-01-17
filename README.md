@@ -1,11 +1,11 @@
 # VBA_Challenge
 Module 2 VBA solution code
 
-###### Project Overview
+## Project Overview
 
 -Refactor Module 2 solution code to loop through all the data
 
-###### Results
+## Results
 
 **2017** 
 - Total daily volumn produced mostly positive results excluding TERP which produduced negative results
@@ -17,7 +17,7 @@ Module 2 VBA solution code
 - Code ran in 0.84375 seconds for the year
 ! [2018 Results Image](https://github.com/robyndook/VBA_Challenge/blob/2d550e68aff9bc9c1b5647e96bb8cf8e09cf2a00/Resources/VBA.Challenge_2018.png)
 
-###### Summary
+## Summary
 1. Advantages and disadvantages of refactoring code
     - Advantages
      - Saves time typing out repetitive code
