@@ -15,7 +15,7 @@ Module 2 VBA solution code
 **2018** 
 - Total daily volumn produced mostly negative results excluding ENPH and RUN which produced negative results
 - Code ran in 0.84375 seconds for the year
-! [2017 Results Image](https://github.com/robyndook/VBA_Challenge/blob/2d550e68aff9bc9c1b5647e96bb8cf8e09cf2a00/Resources/VBA.Challenge_2018.png)
+! [2018 Results Image](https://github.com/robyndook/VBA_Challenge/blob/2d550e68aff9bc9c1b5647e96bb8cf8e09cf2a00/Resources/VBA.Challenge_2018.png)
 
 ###### Summary
 1. Advantages and disadvantages of refactoring code
